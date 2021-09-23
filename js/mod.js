@@ -1,5 +1,5 @@
 let modInfo = {
-	name: "The Color Tree",
+	name: "颜色树 - The Color Tree",
 	id: "colortree",
 	author: "MrRedShark77",
 	pointsName: "particles",
